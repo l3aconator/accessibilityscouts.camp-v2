@@ -195,7 +195,7 @@ const Header = () => (
             >
               <img
                 className="nav--icon__settings"
-                src="/user/themes/camp/images/settings.svg"
+                src="/images/settings.svg"
                 alt="Settings Icon"
               />
             </Link>
