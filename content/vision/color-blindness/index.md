@@ -10,11 +10,13 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
+
 # Leaf one and two look exactly the same
 
 ---
 
 The colors you choose matter. 1 in 200 women and 1 in 12 men are color blind. This gets even trickier with the the different types of color blindness. Let’s take a peak at the different types. Keep in mind this phenomena really only affects men the most, so pardon the frequent references to “males.”
+
 </div>
 </section>
 
@@ -22,7 +24,9 @@ The colors you choose matter. 1 in 200 women and 1 in 12 men are color blind. Th
 <div class="container--content" markdown="1">
 
 <div class="mt--90" markdown="1">
+
 ![ILLUSTRATION](red-green.png)
+
 </div>
 
 #### Red-Green color blindness
@@ -35,6 +39,7 @@ Go ahead and read about all of the types, but the upshot is, reds, yellows, oran
 * *Deuteranopia*: In males with deuteranopia, there are no working green cone cells. They tend to see reds as brownish-yellow and greens as beige. Deuteranopia is an X-linked disorder that affects about 1 percent of males.
 
 Scientific content adapted for this project from: [Facts About Color Blindness | National Eye Institute](https://nei.nih.gov/health/color_blindness/facts_about)
+
 </div>
 </section>
 
@@ -42,7 +47,9 @@ Scientific content adapted for this project from: [Facts About Color Blindness |
 <div class="container--content" markdown="1">
 
 <div class="mt--90" markdown="1">
+
 ![ILLUSTRATION](blue-yellow.png)
+
 </div>
 
 #### Blue-Yellow color blindness
@@ -53,6 +60,7 @@ Again, please read the details but the summary is blues tend to appear greener a
 * *Tritanopia:* People with tritanopia, also known as blue-yellow color blindness, lack blue cone cells. Blue appears green and yellow appears violet or light grey. Tritanopia is an extremely rare autosomal recessive disorder affecting males and females equally.
 
 Scientific content adapted for this project from: [Facts About Color Blindness | National Eye Institute](https://nei.nih.gov/health/color_blindness/facts_about)
+
 </div>
 </section>
 
@@ -60,7 +68,9 @@ Scientific content adapted for this project from: [Facts About Color Blindness |
 <div class="container--content" markdown="1">
 
 <div class="mt--90" markdown="1">
+
 ![ILLUSTRATION](total-blindness.png)
+
 </div>
 
 #### Total color blindness
@@ -82,14 +92,18 @@ As a thought exercise, pull your mock up or a screenshot into your favorite imag
 <section>
 <div class="container--content section--marg">
 <div class="box purple stripe" markdown="1">
+
 **KNOW YOUR AUDIENCE.** Howdy scouts! You’re probably going to see this box quite often. The camp stresses the importance of accessibility and it comes down to the audience. A website for women’s underwear, *probably* doesn’t need to worry so much about color blindness for men (since it affects them the most.) A site for camping gear, yeah, probably needs way more consideration when it comes to those with color blindness.
+
 </div>
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 Thankfully nerds on the Internet have built some tools around color blindness. You can find these other scout survival tools here:
+
 </div>
 </section>
 
@@ -118,12 +132,14 @@ Thankfully nerds on the Internet have built some tools around color blindness. Y
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Scout Review
 
 * Know your audience! If your user base is going to be mostly males, please adjust and test color palettes accordingly.
 * Test, test, and test!
 * Try to avoid certain tints/shades of the same color together. That’s sometimes hard for non-color blind people to see
 * If using a color that those who are color blind can’t really see, make sure there’s a enough difference between them to make sure the colors are still distinct to their vision.
+
 </div>
 </section>
 
@@ -132,7 +148,7 @@ Thankfully nerds on the Internet have built some tools around color blindness. Y
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/color-blindness/color-blindness.png" data-section="vision" data-badge="colorBlindness">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/color-blindness/color-blindness.png" data-section="vision" data-badge="colorBlindness">
                 </div>
             </div>
             <div class="col--width__eight">

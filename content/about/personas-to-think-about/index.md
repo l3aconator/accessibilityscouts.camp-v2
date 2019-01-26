@@ -13,6 +13,7 @@ process:
 <section>
 <div class="container--content section--marg">
 <div class="box purple stripe" markdown="1">
+
 ### Persona—Color Blind
 
 #### Sam Camper
@@ -29,6 +30,7 @@ Your site is designed using a lot of warm colors. Sam can't distinguish the colo
 ###### Quick fixes:
 * If using these colors, make sure there's plenty of contrast or difference between them. Even if the color isn't displayed correctly, Sam can still tell what is going on.
 * Know your audience and pick your color palette accordingly!
+
 </div>
 </div>
 </section>
@@ -36,6 +38,7 @@ Your site is designed using a lot of warm colors. Sam can't distinguish the colo
 <section>
 <div class="container--content section--marg">
 <div class="box purple stripe" markdown="1">
+
 ### Persona—Blind
 
 #### Sally Camper
@@ -55,6 +58,7 @@ One would think it would be impossible to use the Internet if one was blind. It'
 * Test your site with a screen reader
 * Put yourself in their shoes, close your eyes and navigate the site with keyboard interactions and audio only
 * User test with sight disabled folks
+
 </div>
 </div>
 </section>
@@ -62,6 +66,7 @@ One would think it would be impossible to use the Internet if one was blind. It'
 <section>
 <div class="container--content section--marg">
 <div class="box purple stripe" markdown="1">
+
 ### Persona—Deaf
 
 #### Beet Camper
@@ -76,6 +81,7 @@ The web is definitely more friendly to those who can't hear, since one can see w
 * Provide realtime closed captioning (subtitles) to videos or use a service that creates transcripts for you
 * If providing a music track to listen to, give some lyrics to reading. If the song doesn't have spoken words, notate that, give context to the instruments being played.
 * Think of ways to enrich Beet's experience that he wouldn't have had otherwise
+
 </div>
 </div>
 </section>
@@ -83,6 +89,7 @@ The web is definitely more friendly to those who can't hear, since one can see w
 <section>
 <div class="container--content section--marg">
 <div class="box purple stripe" markdown="1">
+
 ### Persona—Elderly and new to computers
 
 #### Phyllis Camper
@@ -102,6 +109,7 @@ The elderly and those who are new to computers have similar challenges so we'll 
 * Keep your type at a healthy size
 * Avoid low contrast text
 * If animating, making fancy interactions, etc. make sure they make sense. Make sure they don't detract from the experience and make someone wonder if they've done something wrong. Don't move form labels, it freaks people out. It's cool and all, but a form serves a purpose and isn't a Pixar movie.
+
 </div>
 </div>
 </section>
@@ -111,7 +119,7 @@ The elderly and those who are new to computers have similar challenges so we'll 
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/personas-to-think-about/personas.png" data-section="about" data-badge="personasToThinkAbout">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/personas-to-think-about/personas.png" data-section="about" data-badge="personasToThinkAbout">
                 </div>
             </div>
             <div class="col--width__eight">

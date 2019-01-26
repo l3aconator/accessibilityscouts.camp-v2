@@ -10,15 +10,13 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
-# Keeping the camp fire toasty and the axe sharp
-
----
-
-Keep in mind there are some behind the scenes goodies that users can’t really see (duh!)—unless they pop open dev tools or are using screen reader technology. (Meaning, you can see them.) It may seem a little odd that this fits under the sight category, but ARIA tags aid the semantics see by humans and screen readers.
+<h1>Keeping the camp fire toasty and the axe sharp</h1>
+<hr />
+<p>Keep in mind there are some behind the scenes goodies that users can’t really see (duh!)—unless they pop open dev tools or are using screen reader technology. (Meaning, you can see them.) It may seem a little odd that this fits under the sight category, but ARIA tags aid the semantics see by humans and screen readers.</p>
 
 ![ILLUSTRATION](camp-fire-axe.png)
 
-Make sure that your images have alt tags. Please for the love of god put alt tags on your images. Guess what? Screen readers <br />READ the alt tags when used. It also provides a fallback when images aren’t loading and it helps with SEO. Do we have your scout’s honor?
+<p>Make sure that your images have alt tags. Please for the love of god put alt tags on your images. Guess what? Screen readers <br />READ the alt tags when used. It also provides a fallback when images aren’t loading and it helps with SEO. Do we have your scout’s honor?</p>
 </div>
 </section>
 
@@ -45,9 +43,10 @@ Make sure that your images have alt tags. Please for the love of god put alt tag
 
 <section>
 <div class="container--content" markdown="1">
----
 
-The ARIA spec is hard to read, so below are some of the key points to understand from it to include in your code to make your content and interactions more compliant. Some HTML5 attributes have ARIA roles attached to them, some can be modified, others have to be specified explicitly—like hidden objects.
+<hr />
+
+<p>The ARIA spec is hard to read, so below are some of the key points to understand from it to include in your code to make your content and interactions more compliant. Some HTML5 attributes have ARIA roles attached to them, some can be modified, others have to be specified explicitly—like hidden objects.</p>
 
 </div>
 </section>
@@ -165,7 +164,7 @@ The ARIA spec is hard to read, so below are some of the key points to understand
 
 <section>
 <div class="container--content" markdown="1">
-### Scout Review
+<h3>Scout Review</h3>
 
 * Review the ARIA examples to make sure you are incorporating the most important into your markup. It’s not too hard, you just need to know what goes where.
 * PUT CONTENT IN YOUR ALT TAGS.
@@ -177,7 +176,7 @@ The ARIA spec is hard to read, so below are some of the key points to understand
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/behind-the-scenes/behind-the-scences.png" data-section="vision" data-badge="behindTheScenes">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/behind-the-scenes/behind-the-scenes.png" data-section="vision" data-badge="behindTheScenes" />
                 </div>
             </div>
             <div class="col--width__eight">

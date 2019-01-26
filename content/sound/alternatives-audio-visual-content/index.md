@@ -12,11 +12,13 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
+
 # Alternatives to watching and hearing
 
 ---
 
 If some one can’t see, they can still hear audio and video files on the web. What about those who can’t hear audio and visual content? WHOA. Didn’t think about that did ya? (You probably did, sorry the counselor in us is getting a little enthusiastic!)
+
 </div>
 </section>
 
@@ -24,14 +26,12 @@ If some one can’t see, they can still hear audio and video files on the web. W
     <div class="container section--marg">
         <div class="box purple stripe">
             <p>As a thought exercise play the following audio file with your sound turned off—please don’t cheat:</p>
-
             <h5>Audio example</h5>
             <audio controls>
                 <source src="/user/pages/03.sound/alternatives-audio-visual-content/silence.ogg" type="audio/ogg">
                 <source src="/user/pages/03.sound/alternatives-audio-visual-content/silence.mp3" type="audio/mpeg">
                  Your browser does not support the audio tag.
             </audio>
-
             <p>Kind of infuriating you can’t hear it, huh? (Guess what, it’s just empty noise anyways to keep you from cheating.)</p>
             <p>Videos are the same idea. A deaf user can SEE the content. But, they can't hear it!</p>
         </div>
@@ -40,15 +40,19 @@ If some one can’t see, they can still hear audio and video files on the web. W
 
 <section>
 <div class="container--content" markdown="1">
+
 Hey scout! Don’t fret. These two problems have solutions. PROVIDE TRANSCRIPTS to your audio and video file. Think it’s a pain in the butt? Hire someone to do it. It will greatly improve the user experience for those who can’t hear. There’s also multiple ways for people to learn, some prefer video and audio, other’s prefer reading. You help those who can’t hear and those who have a different learning style. GREAT. That transcript can also be used be a screen reader too if that’s ever needed.
 
 There’s plenty of things that can be done also to improve the transcript reading process. Some a bit more difficult than others, but step one is providing the transcript before enriching the experience.
+
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 Transcripts of course add more work and a design challenge. I've included two BARE BONE examples of how to handle this, but they are also the most accessible ways to handle this because they don't involved javascript. Just plain text labeled clearly as a transcript.
+
 </div>
     <div class="container">
         <div class="box white striped mt--90 mb--90">
@@ -107,7 +111,6 @@ Transcripts of course add more work and a design challenge. I've included two BA
         Never gonna tell a lie and hurt you<br />
         </p>
         </div>
-
         <div class="box white striped mt--90 mb--90">
             <h2 class="mt--0 pt--0">Videos and transcripts</h2>
             <div class="videoWrapper mb--30">
@@ -235,11 +238,13 @@ Transcripts of course add more work and a design challenge. I've included two BA
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Scout Review
 
 * Provide a transcript…
 * (Psssst…we haven’t said this in awhile…but know your audience)
 * Enrich the transcript if it makes sense for you skillset and audience. Meaning, enhance with technology that follows along with the video or audio file
+
 </div>
 </section>
 
@@ -248,7 +253,7 @@ Transcripts of course add more work and a design challenge. I've included two BA
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/alternatives-audio-visual-content/screen-readers.png" data-section="sound" data-badge="alternativesAudioVisualContent">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/alternatives-audio-visual-content/screen-readers.png" data-section="sound" data-badge="alternativesAudioVisualContent">
                 </div>
             </div>
             <div class="col--width__eight">

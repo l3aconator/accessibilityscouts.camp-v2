@@ -12,6 +12,7 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
+
 # Non-traditional inputs
 
 ---
@@ -19,6 +20,7 @@ process:
 Sorry scouts, no fancy analogy for these devices. The keyboard is a fundamental device to computing. How does it work when that isn’t available to someone with an impairment? Other means of input are needed. Granted a lot of these are rarer than others, but please keep these in mind.
 
 Again, old broken record over here, but keep your audience in mind. If you are building a website with folks who don’t have arms, think of ways they can interact with it using speech, feet, or even eye tracking software. If you have the budget, get these devices and use them with your site. It’ll be mind blowing to see how easy or hard it is to use.
+
 </div>
 
 <div class="container">
@@ -65,11 +67,13 @@ Again, old broken record over here, but keep your audience in mind. If you are b
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Scout Review
 
 * Know your audience
 * Remember some of these tools in the back of your mind
 * These are edge cases, but if you know your user base, you know whether or not you need to keep these things in mind
+
 </div>
 </section>
 
@@ -78,7 +82,7 @@ Again, old broken record over here, but keep your audience in mind. If you are b
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/non-traditional-inputs/inputs.png" data-section="interaction" data-badge="nonTraditionalInputs">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/non-traditional-inputs/inputs.png" data-section="interaction" data-badge="nonTraditionalInputs">
                 </div>
             </div>
             <div class="col--width__eight">

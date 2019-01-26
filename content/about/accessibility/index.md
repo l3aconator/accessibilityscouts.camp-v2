@@ -12,6 +12,7 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
+
 ### What is accessibility
 
 Consider if a business didn't have wheelchair ramps to get inside? Or cashiers told visually impaired patients the wrong amount of money to pay for something and pocketed the excess? Or denied service because the patron can't hear you? All these are extreme edge cases, but it happens. The severity of those concepts happen on the web.
@@ -23,11 +24,13 @@ There's two main audiences that accessibility needs to matter to. Those who have
 As designers and developers it's up to us to help those who can't natively use something. We have tools at our disposal to provide relief to obstacles on the web. An accessible web for everyone.
 
 ARIA attributes, semantic HTML, type and color choices, animation, proper design thinking, and overall care is the same idea of a building having a ramp, rails for stairs, wheelchair accessible bathrooms, elevators, lower desks, different seating for those who need it, and the list goes on. Just because the Internet is digital, doesn't mean any less care should be taken.
+
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Scout Review
 
 * This has been a long road and the future is bright for those who can’t use the web as others can
@@ -38,6 +41,7 @@ ARIA attributes, semantic HTML, type and color choices, animation, proper design
 * Helps create a larger user base.
 * A creative challenge for designers and developers.
 * More access to information
+
 </div>
 </section>
 
@@ -46,7 +50,7 @@ ARIA attributes, semantic HTML, type and color choices, animation, proper design
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/accessibility/about-accessibility.png" data-section="about" data-badge="accessibility">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/accessibility/about-accessibility.png" data-section="about" data-badge="accessibility">
                 </div>
             </div>
             <div class="col--width__eight">

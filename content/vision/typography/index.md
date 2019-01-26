@@ -10,6 +10,7 @@ process:
 ---
 <section>
 <div class="container--content" markdown="1">
+
 # A primer on trail signs
 
 ---
@@ -17,14 +18,17 @@ process:
 Way finding lives and dies by good typography and iconography. Here we are going to focus on typography. Way finding on the net ends up being navigation, but in reality the important parts of an experience is driven by typography. Color and typography are some of the most important things to keep a site accessible. (Next to screen readers of course but we will get there.)
 
 ![ILLUSTRATION](trail-signs.png)
+
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 ### The design of trail signs
 
 Wait?! You mean I have to design a trail sign to make the web accessible?! No, scout. Just an analogy. Really, it’s what’s on the sign that we are concerned about.
+
 </div>
 </section>
 
@@ -50,11 +54,13 @@ Some features of a type face to consider:
 	* How are the counters working in the letter forms?
 	* Stroke weight aiding in the readability?
 	* Proportions good? Larger x-height and wider letters are most accessible.
+
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Creating the trail signs
 The size and color one uses can ruin a well designed typeface. Here are some dos and don’ts to keep in mind when making typography accessible. (Guess what?! **Know your audience.**)
 
@@ -76,11 +82,13 @@ The size and color one uses can ruin a well designed typeface. Here are some dos
 * Set type below 16px (though you can get away with 14px but that’s pushing it, scout!)
 * Use fonts with think stroke weights or too thick stroke weights
 	* These end up being to thin to read or too thick and the counters fill in at smaller sizes
+
 </div>
 </section>
 
 <section>
 <div class="container--content" markdown="1">
+
 ### Scout Review
 
 * Know your audience!
@@ -88,6 +96,7 @@ The size and color one uses can ruin a well designed typeface. Here are some dos
 * Make your type hierarchy as clear as possible
 * Review the dos and don’ts of the use of typography
 * Can’t stress enough trying and refining things
+
 </div>
 </section>
 
@@ -96,7 +105,7 @@ The size and color one uses can ruin a well designed typeface. Here are some dos
         <div class="flex-grid--gutters">
             <div class="col--width__four">
                 <div class="badge--box">
-                    <img class="img--badge badge--dispatch" alt="A badge." src="/user/pages/06.badge/typography/typography.png" data-section="vision" data-badge="typography">
+                    <img class="img--badge badge--dispatch" alt="A badge." src="/badge/typography/typography.png" data-section="vision" data-badge="typography">
                 </div>
             </div>
             <div class="col--width__eight">
